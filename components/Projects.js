@@ -8,7 +8,7 @@ import Searchify from "../public/Searchify.png"
 
 const Projects = () => {
     return (
-        <div className=" max-w-4xl mx-auto mt-16 antialiased ml-4 ">
+        <div className=" max-w-4xl mx-auto mt-16 antialiased ml-2 ">
             <h1 className="text-3xl font-bold ">Selected Work</h1>
             <p className="font-light">Few projects based on what I am  learning.</p>
 
