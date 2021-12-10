@@ -21,11 +21,11 @@ const Navigation = () => {
                             Projects
                             </a>
                         </Link> */}
-                            <Link href="/ ">
-                            <a className=" transition-colors hover:text-red-300" >
+
+                            <a  href="https://v1shalm-blog.vercel.app/"  target="_blank"  rel="noopener noreferrer"  className=" transition-colors hover:text-red-300" >
                             Blog
                             </a>
-                        </Link>
+
                         <ThemeSwitch />
                     </div>
                 </div>

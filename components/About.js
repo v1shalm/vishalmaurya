@@ -18,11 +18,10 @@ const About = () => {
                          <RoughNotationGroup>
                        <p className="mb-4">
                           I am  a
-                          <RoughNotation type="highlight" color={"#FDE68A"}  padding= '[2, 10]' show={show}> <span className="dark:text-gray-700">Frontend Developer</span> </RoughNotation>
-                            based in<RoughNotation type="highlight" color={"#A7F3D0"}    show={show}> <span className="dark:text-black">India</span> </RoughNotation>with a passion for building digital services/stuff .
-                          I have a knack for  launching products, from planning and designing till  all the way to solving real-life problems with code.
+                          <RoughNotation type="highlight" color={"#FDE68A"}   show={show}> <span className="dark:text-gray-700">Frontend Developer</span> </RoughNotation>
+                            based in<RoughNotation type="highlight" color={"#A7F3D0"}    show={show}> <span className="dark:text-black">India</span> </RoughNotation>with a knack for bulding things.
                           <br/>
-                          When not online, I love to <RoughNotation type="highlight" color={"#BAE6FD"}    show={show}> <span className="dark:text-black">play Valorant</span> </RoughNotation> mostly .
+                          When not online, I love to <RoughNotation type="highlight" color={"#BAE6FD"}    show={show}> <span className="dark:text-black">play Valorant</span> </RoughNotation>
                           <br/>
                            Currently, <RoughNotation type="highlight" color={"#C7D2FE"}    show={show}> <span className="dark:text-black">looking for roles</span> </RoughNotation>to develop as well as  to grow
                         </p>
@@ -34,7 +33,7 @@ const About = () => {
                         src={profile}
                         alt="Profile"
                         priority={true}
-                        className="rounded-full"
+                        className="rounded-full "
                         width={250}
                         height={250}
                        placeholder="blur"
